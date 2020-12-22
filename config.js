@@ -3,12 +3,12 @@ module.exports = {
 
     language: 'en-us',
 
-    url_link: 'https://eager-wozniak-e3574e.netlify.app',
+    url_link: 'https://bruhfish.github.io/botlist.github.io',
 
     discord: {
-        client_id: '730219913951707186',
-        client_secret: 'ZoYIxhxC2_tpzyL9RRYM_n55QfOs1ty6',
-        token: 'NzMwMjE5OTEzOTUxNzA3MTg2.XwadIA.bXkU8bMRLifczmfy6nHvVM2dTVA',
+        client_id: '781846598879281172',
+        client_secret: '67q6hngDZjQeDX4qCvylfQo6khsQf99E',
+        token: 'NzgxODQ2NTk4ODc5MjgxMTcy.X8DlYw.sWsbE1T8qR3jIhruQa6WYqJXNZQ',
         notification: true,
         guild_id: '730063771778678829',
         mod_role_id: '730223401607888986',
